@@ -114,11 +114,10 @@ header .p_number{
 
 .second_section .col-md-4,
 .second_section .col-md-3{
-	background-color: #5cb85c;
+	background-color: rgba(92,184,92,0.45);
 	padding: 10px 30px;
 	margin: 20px 40px;
 	border-radius: 10px;
-	color: #fff;
 }
 .second_section .row:last-child div{
 	margin-top: 0;
@@ -271,12 +270,12 @@ header .p_number{
 	font-size: 14px;
 }
 .section_eight .col-md-4{
-	color: #fff;
-	background-color: #5cb85c;
+	color: #333;
+	background-color: rgba(92,184,92,0.45);
 	border-radius: 5px;
 }
 .section_eight .col-md-4:nth-child(odd){
-	background-color: #d9534f;
+	background-color: rgba(217,83,79,0.5);
 }
 
 /*section_nine*/
